@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "schoenstatt.schoenstapp",
+    "sha256_cert_fingerprints":
+    ["E6:DE:13:D5:B7:6A:25:69:EF:13:71:26:71:49:0B:6B:58:54:AB:32:0A:DE:57:29:03:53:1A:B8:48:07:1A:D6"]
+  }
+}]
